@@ -1,2 +1,2 @@
 # demo-class
-For practice 
+For practice.
